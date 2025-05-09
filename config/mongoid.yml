@@ -1,0 +1,6 @@
+development:
+  clients:
+    default:
+      uri: mongodb+srv://tahiche:1234@cluster0.wdqi7.mongodb.net/proyecto_api?retryWrites=true&w=majority
+      options:
+        server_selection_timeout: 20
